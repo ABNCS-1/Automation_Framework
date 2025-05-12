@@ -1,0 +1,42 @@
+16:14:49.926 [main] DEBUG stepdefinitions.login - Browser launched
+16:16:32.265 [main] DEBUG stepdefinitions.login - Browser launched
+16:16:32.268 [main] INFO  stepdefinitions.login - Info working
+16:22:05.651 [main] ERROR stepdefinitions.login - Failed
+12:12:37.960 [main] ERROR stepdefinitions.login - Failed
+12:14:02.650 [main] ERROR stepdefinitions.login - Failed
+12:15:17.033 [main] ERROR stepdefinitions.login - Failed
+12:20:31.419 [main] ERROR stepdefinitions.login - Failed
+12:31:24.327 [TestNG-tests-1] DEBUG tests.LoginTest - Navigated to application URL
+12:31:24.382 [TestNG-tests-1] DEBUG tests.LoginTest - Test Execution Started
+12:31:24.522 [TestNG-tests-1] DEBUG tests.LoginTest - Clicked on My Account dropdown
+12:31:25.281 [TestNG-tests-1] DEBUG tests.LoginTest - Clicked on login option
+12:31:31.120 [TestNG-tests-1] INFO  tests.LoginTest - Clicked on login option
+12:36:04.418 [TestNG-tests-1] DEBUG tests.LoginTest - Navigated to application URL
+12:36:04.657 [TestNG-tests-1] DEBUG tests.LoginTest - Test Execution Started
+12:36:04.735 [TestNG-tests-1] DEBUG tests.LoginTest - Clicked on My Account dropdown
+12:36:05.340 [TestNG-tests-1] DEBUG tests.LoginTest - Clicked on login option
+12:36:10.986 [TestNG-tests-1] INFO  tests.LoginTest - Clicked on login option
+12:41:56.936 [main] ERROR stepdefinitions.login - Failed
+12:48:55.218 [main] ERROR stepdefinitions.login - Failed
+12:54:09.138 [main] ERROR stepdefinitions.login - Failed
+12:55:29.605 [main] DEBUG stepdefinitions.login - Browser launched
+12:55:29.609 [main] INFO  stepdefinitions.login - Info working
+12:58:10.063 [main] DEBUG stepdefinitions.login - Browser launched
+12:58:10.068 [main] INFO  stepdefinitions.login - Info working
+13:02:20.517 [main] DEBUG stepdefinitions.login - Browser launched
+13:02:20.534 [main] INFO  stepdefinitions.login - Info working
+13:04:21.599 [main] ERROR stepdefinitions.login - Failed
+13:06:19.535 [main] ERROR stepdefinitions.login - Failed
+13:08:17.779 [main] ERROR stepdefinitions.login - Failed
+13:14:56.431 [main] ERROR stepdefinitions.login - Failed
+13:16:10.091 [main] ERROR stepdefinitions.login - Failed
+13:25:06.749 [main] ERROR stepdefinitions.login - Failed
+13:28:12.724 [main] ERROR stepdefinitions.login - Failed
+13:32:04.907 [main] ERROR stepdefinitions.login - Failed
+13:37:55.073 [main] ERROR stepdefinitions.login - Failed
+13:38:30.552 [TestNG-tests-1] DEBUG tests.LoginTest - Navigated to application URL
+13:38:30.608 [TestNG-tests-1] DEBUG tests.LoginTest - Test Execution Started
+13:38:30.724 [TestNG-tests-1] DEBUG tests.LoginTest - Clicked on My Account dropdown
+13:38:31.501 [TestNG-tests-1] DEBUG tests.LoginTest - Clicked on login option
+13:38:37.264 [TestNG-tests-1] INFO  tests.LoginTest - Clicked on login option
+13:42:20.691 [main] ERROR stepdefinitions.login - Failed

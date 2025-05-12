@@ -1,0 +1,12 @@
+@And("^Enter the Company Code in Create Company screen$")
+public void enter_the_company_code_in_create_company_screen()throws Throwable{
+}
+@And("^Enter the Company Name in Create Company screen$")
+public void enter_the_company_name_in_create_company_screen()throws Throwable{
+}
+@When("^Click the Save button under Create Company screen$")
+public void click_the_save_button_under_create_company_screen()throws Throwable{
+}
+@Then("^Verify company record created successfully in Company index page grid table$")
+public void verify_company_record_created_successfully_in_company_index_page_grid_table()throws Throwable{
+}
