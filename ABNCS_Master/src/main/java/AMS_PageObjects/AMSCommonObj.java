@@ -50,57 +50,6 @@ public class AMSCommonObj {
 		return AMS_LogoutBtn;
 	}
 	
-	@FindBy(xpath = "//li[@title='Master']")
-	private WebElement AMS_Master;
-	public WebElement AMS_Master() {
-		return AMS_Master;
-	}
-	
-	@FindBy(xpath = "//li[@title='Department']")
-	private WebElement AMS_Master_Department;
-	public WebElement AMS_Master_Department() {
-		return AMS_Master_Department;
-	}
-	
-	
-	
-	// Company screen webelements
-	@FindBy(xpath = "//li[@title='Company']")
-	private WebElement AMS_Master_Company;
-	public WebElement AMS_Master_Company() {
-		return AMS_Master_Company;
-	}
-	
-	@FindBy(xpath = "//div[@id='workingArea']")
-	private WebElement AMS_Master_Company_Grid_Refresh_Btn;
-	public WebElement AMS_Master_Company_Grid_Refresh_Btn() {
-		return AMS_Master_Company_Grid_Refresh_Btn;
-	}
-	
-	@FindBy(xpath = "(//div[@id='ToolBar']//div)[2]")
-	private WebElement AMS_Master_Company_AddBtn;
-	public WebElement AMS_Master_Company_AddBtn() {
-		return AMS_Master_Company_AddBtn;
-	}
-	
-	@FindBy(id = "CompanyCode")
-	private WebElement Master_Company_Create_CompanyCode_Input;
-	public WebElement Master_Company_Create_CompanyCode_Input() {
-		return Master_Company_Create_CompanyCode_Input;
-	}	
-	
-	@FindBy(id = "CompanyName")
-	private WebElement Master_Company_Create_CompanyName_Input;
-	public WebElement Master_Company_Create_CompanyName_Input() {
-		return Master_Company_Create_CompanyName_Input;
-	}
-	
-	@FindBy(xpath = "//button[@id='loginButton']")
-	private WebElement AMS_Save_Btn;
-	public WebElement AMS_Save_Btn() {
-		return AMS_Save_Btn;
-	}
-	
 	
 	
 }
